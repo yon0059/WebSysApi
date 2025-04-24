@@ -1,19 +1,41 @@
-{
+[
+    {
     "id": 1,
-    "name": "John Doe",
-    "email": "sample@gmail.com",
-    "phone": "+1-321-564-897",
-    "address": {
-        "street": "123 Main St",
-        "city": "caloocan",
-        "state": "CA",
-        "zip": "12345"
-
+        "mobo": "MSI MAG B650 TOMAHAWK WIFI AMD Socket AM5 Motherboard",
+        "cpu": "Ryzen 5",
+        "ram": {
+            "ram1": "DDR 4 16 GB",
+            "ram2": "DDR 4 16 GB"
+        },
+        "storage": "NVME m.2 256 GB",
+        "gpu": "N/A"
     },
-    "company": {
-        "name": "Tech Solution",
-        "position": "Software Development",
-        "department": "Development"
 
+    {
+
+    "id": 2,
+    "mobo": "ASRock X870E Nova WiFi AMD Socket AM5 Motherboard",
+    "cpu": "Intel Core i5",
+    "ram2": {
+        "ram1": "DDR 4 16 GB",
+        "ram2": "DDR 4 16 GB"
+    },
+    "storage": "NVME m.2 256 GB",
+    "gpu": "N/A"
+    },
+
+    {
+    "id3": 3,
+    "mobo": "Gigabyte A520M K V2 AMD Socket AM4 Motherboard",
+    "cpu": "Ryzen 5",
+    "ram": {
+        "ram1": "DDR 4 16 GB",
+        "ram2": "DDR 4 16 GB"
+    },
+    "storage": "NVME m.2 256 GB",
+    "gpu": "N/A"
     }
-}
+]
+
+
+
