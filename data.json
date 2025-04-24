@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "name": "John Doe",
+    "email": "sample@gmail.com",
+    "phone": "+1-321-564-897",
+    "address": {
+        "street": "123 Main St",
+        "city": "caloocan",
+        "state": "CA",
+        "zip": "12345"
+
+    },
+    "company": {
+        "name": "Tech Solution",
+        "position": "Software Development",
+        "department": "Development"
+
+    }
+}
